@@ -1,3 +1,0 @@
-This is a test file created via MCP create_or_update_file tool.
-Exploring file creation and update capabilities.
-Timestamp: 2025-03-30
